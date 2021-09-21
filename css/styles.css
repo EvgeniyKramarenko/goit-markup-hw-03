@@ -240,6 +240,16 @@ nav {
   padding-left: 0;
 }
 
+.section-command-title {
+  padding-top: 94px;
+  margin-bottom: 50px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
 .command {
   width: calc((100% - 90px) / 4);
   margin-right: 30px;
