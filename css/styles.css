@@ -290,7 +290,7 @@ footer {
   line-height: 1, 71;
   letter-spacing: 0.03em;
   font-style: normal;
-  display: inline-block;
+  display: block;
 }
 
 .address > p {
