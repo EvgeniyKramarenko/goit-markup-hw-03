@@ -379,10 +379,15 @@ footer {
   padding-left: 0;
 }
 
+.card-comtent {
+  padding: 20px 24px;
+}
+
 .cards > li {
   margin-right: 30px;
   margin-bottom: 30px;
   width: calc((100% - 60px) / 3);
+  border: 1px solid #eeeeee;
 }
 
 .cards > li:nth-child(3n) {
